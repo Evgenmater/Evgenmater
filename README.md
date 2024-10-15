@@ -14,24 +14,24 @@
 </div>
 
 ### :hammer_and_wrench: Languages and Tools :
-<div style="margin-bottom: 20px;">
+<div style="margin-bottom: 50px;">
   <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="60" height="60"/> </a>
   <a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer"> <img src="https://fastapi.tiangolo.com/img/logo-margin/logo-teal.png" alt="fastapi" width="105" height="60"/> </a>
   <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="60" height="60"/> </a>
   <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="60" height="60"/> </a>
   <a href="https://docs.aiogram.dev/" target="_blank" rel="noreferrer"> <img src="https://docs.aiogram.dev/en/latest/_static/logo.png" alt="aiogram" width="60" height="60"/> </a>
 </div>
-<div style="margin-bottom: 20px;">
+<div style="margin-bottom: 50px;">
   <a href="https://www.rabbitmq.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-icon.svg" alt="rabbitMQ" width="60" height="60"/> </a>
   <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="60" height="60"/> </a>
   <a href="https://docs.celeryq.dev/en/stable/" target="_blank" rel="noreferrer"> <img src="https://docs.celeryq.dev/en/stable/_static/celery_512.png" alt="celery" width="60" height="60"/> </a>
 </div>
-<div style="margin-bottom: 20px;">
+<div style="margin-bottom: 50px;">
   <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="60" height="60"/> </a>
   <a href="https://www.sqlalchemy.org/" target="_blank" rel="noreferrer"> <img src="https://www.sqlalchemy.org/img/sqla_logo.png" alt="sqlalchemy" width="100" height="60"/> </a>
   <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="60" height="60"/> </a>
 </div>
-<div style="margin-bottom: 20px;">
+<div style="margin-bottom: 50px;">
   <a href="https://github.com/features/actions" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" alt="github actions" width="60" height="60"/> </a>
   <a href="https://docs.gitlab.com/ee/ci/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gitlab/gitlab-icon.svg" alt="gitlab ci" width="60" height="60"/> </a>
   <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="60" height="60"/> </a>
