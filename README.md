@@ -52,3 +52,7 @@
   <a href="https://www.postman.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="60" height="60"/> </a>
   <a href="https://www.selenium.dev/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="60" height="60"/> </a>
 </div>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Evgenmater)](https://github.com/anuraghazra/github-readme-stats
+<br>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Evgenmater&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
