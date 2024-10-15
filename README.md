@@ -1,5 +1,5 @@
 <h1 align="center">
-  <span style="color: 3196F7;">Hello</span>
+  <span style="color: #1E90FF;">Hello</span>
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 <p align="center">
