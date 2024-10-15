@@ -53,6 +53,8 @@
   <a href="https://www.selenium.dev/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="60" height="60"/> </a>
 </div>
 
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Evgenmater&theme=dark" alt="GitHub Streak" /></a>
+
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Evgenmater&theme=dark&background=000000)](https://git.io/streak-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Evgenmater&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
