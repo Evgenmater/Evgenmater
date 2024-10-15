@@ -4,9 +4,6 @@
 </h1>
 <h1 align="center">I'm Evgeniy Khlebnev</h1>
 <h3 align="center">Python Backend Developer</h3>
-
-- Write me in Telegram **https://t.me/Evgenkhl01**
-- 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="https://t.me/Evgenkhl01" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/telegram/telegram-icon.svg" alt="Telegram" width="40" height="40"/> </a>
