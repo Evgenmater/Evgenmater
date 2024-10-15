@@ -1,4 +1,8 @@
-
+<h1 align="center">
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+  <img src="https://example.com/typing-animation.gif" alt="Typing Animation" width="300px"/>
+</h1>
+<h3 align="center">Python Backend Developer</h3>
 <h1 align="center">
   Hi
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
