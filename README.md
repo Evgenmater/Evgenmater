@@ -9,7 +9,7 @@
   <a href="https://t.me/Evgenkhl01" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/telegram/telegram-icon.svg" alt="Telegram" width="40" height="40"/> </a>
 </p>
 <div align="center">
-  <img src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" width="600" height="300"/>
+  <img src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" width="500" height="200"/>
 </div>
 
 ### :hammer_and_wrench: Languages and Tools :
@@ -27,8 +27,3 @@
   <a href="https://docs.celeryq.dev/en/stable/" target="_blank" rel="noreferrer"> <img src="https://docs.celeryq.dev/en/stable/_static/celery_512.png" alt="celery" width="40" height="40"/> </a>
   <a href="https://docs.aiogram.dev/" target="_blank" rel="noreferrer"> <img src="https://docs.aiogram.dev/en/latest/_static/logo.png" alt="aiogram" width="40" height="40"/> </a>
 </div>
-
-### :fire: My Stats :
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Evgenmater&theme=dark&background=000000)](https://git.io/streak-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Evgenmater&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
