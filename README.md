@@ -9,7 +9,7 @@
   <a href="https://t.me/Evgenkhl01" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/telegram/telegram-icon.svg" alt="Telegram" width="40" height="40"/> </a>
 </p>
 <div align="center">
-  <img src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" width="500" height="250"/>
+  <img src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" width="450" height="250"/>
 </div>
 
 ### :hammer_and_wrench: Languages and Tools :
