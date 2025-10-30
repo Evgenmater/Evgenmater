@@ -22,10 +22,3 @@
 </p>
 
 ---
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Evgenmater&layout=compact&hide_border=true&theme=transparent"/>
-</p>
-
----
-
